@@ -1,0 +1,11 @@
+// custom.scss
+
+// Import Bootstrap's functions and variables
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+
+// Override Bootstrap's primary color
+$primary: #FF4500; // Red-orange color
+
+// Import the rest of Bootstrap
+@import "~bootstrap/scss/bootstrap";

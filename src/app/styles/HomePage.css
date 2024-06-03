@@ -1,0 +1,4 @@
+/* styles.css */
+.light-placeholder::placeholder {
+    color: rgba(204, 204, 204, 0.59); /* Adjust the color to be light */
+}
